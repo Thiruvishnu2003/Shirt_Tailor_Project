@@ -1,0 +1,28 @@
+@charset "ISO-8859-1";
+body{
+	background-color: grey;
+	font-family: Verdana;
+	font-size: 25px;
+}
+h3{
+	text-align: center;
+}
+.con{
+	display: flex;
+	justify-content: center;
+	font-weight: bold;
+}
+input,select{
+	border-radius: 5px;
+	font-size: 25px;
+}
+.bt1,.bt2{
+	background-color: white;
+	font-weight: bold;
+	padding: 8px;
+	border-radius: 10px;
+	margin-right: 30px;
+	border: 3px solid black;
+	margin-top: 10px;
+	box-shadow: 0px 0px 10px white;
+}

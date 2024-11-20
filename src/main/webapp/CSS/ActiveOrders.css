@@ -1,0 +1,43 @@
+@charset "ISO-8859-1";
+body{
+	background-color:grey;
+	font-weight: bold;
+	font-family: Verdana;
+	font-size: 15px;
+}
+h3{
+	text-align: center;
+}
+.bt{
+	background-color: yellow;
+	font-weight: bold;
+	font-size: 15px;
+	border-radius: 5px;
+	padding: 5px;
+}
+td{
+	text-align: center;
+	font-size: 18px;
+	height: 25px;
+	padding: 2px;
+}
+.inp{
+	margin: 0px;
+	padding: 0px;
+	border: none;
+	text-align: center;
+	font-weight: bold;
+	font-size: 18px;
+	width: 130px;
+}
+table{
+	background-color: white;
+	border-radius: 10px;
+}
+.search{
+	padding: 5px;
+	background-color: white;
+	margin:0px;
+	border-radius: 10px 0px 0px 10px;
+	padding-left: 10px;
+}

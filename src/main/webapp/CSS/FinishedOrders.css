@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+body{
+	background-color: grey;
+	font-weight: bold;
+	font-family: Verdana;
+	font-size: 15px;
+}
+h3{
+	text-align: center;
+}
+input{
+	background-color: yellow;
+	font-weight: bold;
+	font-size: 15px;
+	border-radius: 5px;
+}
+td{
+	text-align: center;
+	font-size: 18px;
+	height: 25px;
+	padding: 4px;
+}
+table{
+	background-color: white;
+	border-radius: 10px;
+}
